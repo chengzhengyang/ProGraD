@@ -1,1 +1,1 @@
-python3 train.py --dataset 'social_cad' --groundtruth './evaluation/gt_tracks_cad.txt' --image_width 1280 --image_height 720 --num_frame 1 --num_class 5 --num_boxes 11 --num_group_tokens 8 --random_seed 12 --lr 8e-6 --max_lr 8e-5 --lr_step 8 --use_group_prompts
+python3 train.py --dataset 'social_cad' --groundtruth './evaluation/gt_tracks_cad.txt' --num_frame 1 --num_class 5 --num_boxes 11 --num_group_tokens 8 --random_seed 12 --lr 8e-6 --max_lr 8e-5 --lr_step 8 --use_group_prompts
