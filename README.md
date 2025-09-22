@@ -59,7 +59,7 @@ sh train_cafe.sh
 sh train_cad.sh
 ```
 
-## Citation
+<!-- ## Citation
 If you find this work useful in your own research, please consider citing it: 
 ```bibtex
 @inproceedings{ponbagavathi2025promptguidedrelationalreasoningsocial,
@@ -67,4 +67,5 @@ If you find this work useful in your own research, please consider citing it:
       author={Thinesh Thiyakesan Ponbagavathi and Chengzheng Yang and Alina Roitberg},
       year={2025},
 }
-```
+``` -->
+
