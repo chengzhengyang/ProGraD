@@ -1,4 +1,4 @@
-# Prompt-Guided Relational Reasoning for Social Behavior Understanding with Vision Foundation Models
+# ProGraD
 
 <!-- This repository contains the PyTorch implementation for **"Prompt-Guided Relational Reasoning for Social Behavior Understanding with Vision Foundation Models"** [[Paper](https://arxiv.org/abs/2508.07996)].  -->
 
