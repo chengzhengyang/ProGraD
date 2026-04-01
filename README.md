@@ -1,6 +1,6 @@
 # ProGraD
 
-<!-- This repository contains the PyTorch implementation for **"Prompt-Guided Relational Reasoning for Social Behavior Understanding with Vision Foundation Models"** [[Paper](https://arxiv.org/abs/2508.07996)].  -->
+This repository contains the PyTorch implementation for **"Prompt-Guided Relational Reasoning for Social Behavior Understanding with Vision Foundation Models"** [[Paper](https://arxiv.org/abs/2508.07996)]. 
 
 <p align="center">
   <img src="figures/teaser.png" alt="teaser" style="max-width:100%;">
@@ -59,7 +59,7 @@ sh train_cafe.sh
 sh train_cad.sh
 ```
 
-<!-- ## Citation
+Citation
 If you find this work useful in your own research, please consider citing it: 
 ```bibtex
 @inproceedings{ponbagavathi2025promptguidedrelationalreasoningsocial,
@@ -67,5 +67,5 @@ If you find this work useful in your own research, please consider citing it:
       author={Thinesh Thiyakesan Ponbagavathi and Chengzheng Yang and Alina Roitberg},
       year={2025},
 }
-``` -->
+```
 
