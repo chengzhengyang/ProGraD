@@ -59,7 +59,7 @@ sh train_cafe.sh
 sh train_cad.sh
 ```
 
-Citation
+###Citation
 If you find this work useful in your own research, please consider citing it: 
 ```bibtex
 @inproceedings{ponbagavathi2025promptguidedrelationalreasoningsocial,
